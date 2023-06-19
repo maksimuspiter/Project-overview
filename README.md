@@ -10,3 +10,7 @@ _#_
 #### [Pizza Shop](https://github.com/maksimuspiter/pizza_shop_final_proj): 
 _DRF, Models: Products, Orders(GenericForeignKey), Account(OneToOneField - User)_
 _Frontend: Vue3, Bootstrap 5_
+
+### Django DRF:
+#### [DRF + test](https://github.com/maksimuspiter/drf_with_test): 
+_DRF, users, shop + tests_
