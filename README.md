@@ -11,7 +11,7 @@ _docker-compose (backend, db, nginx)_
 _Django, Bootstrap 5, Celery, Redis, ajax_
 
 #### [Simple Blog](https://github.com/maksimuspiter/simple_blog_final_proj): 
-__Django, sqlite_
+_Django, sqlite_
 
 ### Django DRF:
 #### [DRF + test](https://github.com/maksimuspiter/drf_with_test): 
